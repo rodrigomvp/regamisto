@@ -143,3 +143,8 @@ modelação explícita de tamanhos de gota (é a v2).
 - Tabelas de desempenho dos canhões (ex.: Nelson Big Gun) → `src/data/`.
 - Open-Meteo — `https://open-meteo.com` (vento horário, sem chave).
 - CU (Christiansen) e DU (*low-quarter*) — métricas-padrão de uniformidade de rega.
+
+## 10. Comandos 
+ npm run dev (arrancar) 
+ pm test (testes) 
+ npm run build (produção)
